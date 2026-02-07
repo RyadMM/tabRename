@@ -1,17 +1,19 @@
-<!doctype html>
-<html>
-    <head>
-        <title>Tab Rename</title>
-        <link rel="stylesheet" href="style.css"/>
-        <meta charset="UTF-8">
-    </head>
-    <body>
-        <div>
-            <input type="text" name="newTitle" id="newTitle" class="textBox" tabindex="1" autofocus>
-        </div>
-        <div class="button">
-            <button name="renameTab" id="renameTab">Rename</button>
-        </div>
-        <script type="text/javascript" src="rename.js"></script>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tab Rename</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tab Rename</h1>
+    <button id="resetBtn" title="Reset all titles to original">Reset All</button>
+  </header>
+  <main id="tabsList">
+    <div class="loading">Loading tabs...</div>
+  </main>
+</body>
+<script src="popup.js"></script>
 </html>

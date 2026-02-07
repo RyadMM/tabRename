@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# Build artifacts
+node_modules/
+dist/
+build/
