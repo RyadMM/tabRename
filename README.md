@@ -6,6 +6,12 @@ A clean, minimal Chrome extension for renaming browser tabs with ease.
 
 ## Features
 
+<img width="418" height="289" alt="image" src="https://github.com/user-attachments/assets/627649c4-5cea-443f-9d4b-b0203a8d5a2f" />
+
+<img width="241" height="121" alt="image" src="https://github.com/user-attachments/assets/534a5f35-4e94-4c26-a51a-60233e95b442" />
+
+
+
 - **Tab Listing** - Shows all open tabs in the current window with their favicons
 - **Inline Editing** - Click any tab title to edit it directly
 - **Persistent Storage** - Custom titles are saved and persist across browser sessions
