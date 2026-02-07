@@ -17,7 +17,7 @@ A clean, minimal Chrome extension for renaming browser tabs with ease.
 - **Persistent Storage** - Custom titles are saved and persist across browser sessions
 - **Reset Individual** - Reset any tab back to its original title
 - **Reset All** - One-click button to reset all custom titles
-- **Keyboard Shortcut** - Press `Alt+R` (Windows/Linux) or `MacCtrl+R` (Mac) to open the popup
+- **Keyboard Shortcut** - Press `Alt+R` (Windows/Linux) or `Ctrl+R` (Mac) to open the popup
 - **Auto Cleanup** - Automatically removes old entries after 24 hours
 - **Toast Notifications** - Visual feedback for all actions
 - **Smart Error Handling** - Gracefully handles protected pages and closed tabs
